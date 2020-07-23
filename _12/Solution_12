@@ -1,0 +1,2 @@
+//Since in the line c=a,b, b is being initialised to c after a, a takes the value of b. So it prints 6.
+//A variable takes the latest value initialised to it
